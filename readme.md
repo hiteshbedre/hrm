@@ -59,4 +59,4 @@ Please direct any feedback to trajchevska@adevait.com.
 ## Our supporters
 #### [BrowserStack](https://www.browserstack.com/): Hassle free web-based browser testing 
 ![Testing made easy with BrowserStack](https://raw.githubusercontent.com/adevait/hrm/master/public/images/browserstack-logo.png)
-Trigger 22
+Trigger 23
